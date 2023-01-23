@@ -55,7 +55,5 @@ public class Exercicio {
         }
         System.out.println(Populacao);
 
-        P
-
     }
 }
